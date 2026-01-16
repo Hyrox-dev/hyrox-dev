@@ -10,7 +10,7 @@
 
 - 👯 Je recherce un collaborateur **Sur un projet fivem**
 
-- 📫 Ou me contacter **hyrox.dev25@gmail.com**
+- 📫 Mon Email **hyrox.dev25@gmail.com**
 
 <h3 align="left">Mes réseaux:</h3>
 <p align="left">
