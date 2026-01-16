@@ -2,7 +2,7 @@
 
 ### Je suis developeur et leakeur fivem
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hyrox-dev&label=Profile views&color=0e75b6&style=flat" alt="Hyrox-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hyrox&label=Profile views&color=0e75b6&style=flat" alt="Hyrox-dev" /> </p>
 
 - 🔭 Je travaille actuellement sur **la base V1 de mon serveur fivem ( Parazia RP )**
 
