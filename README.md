@@ -1,8 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyrox-dev&label=Vue+total" /> </p>
+#<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyrox-dev&label=Vue+total" /> </p>
 
 # 👋 Salut moi c'est hyrox
 
-### Je suis developeur et leakeur fivem
+## Je suis developeur et leakeur fivem
 
 - 🔭 Je travaille actuellement sur **la base V1 de mon serveur fivem ( Parazia RP )**
 
@@ -10,7 +10,7 @@
 
 - 👯 Je recherce un collaborateur **Sur un projet fivem**
 
-- 📫 Mon Email **hyrox.dev25@gmail.com**
+- 📫 Mon Email: **hyrox.dev25@gmail.com**
 
 <h3 align="left">Mes réseaux:</h3>
 <p align="left">
@@ -20,7 +20,8 @@
 </p>
 
 <h3 align="left">Langages et outils:</h3>
-<p align="left"> <a href="https://www.microsoft.com/fr-fr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=windows" alt="figma" width="40" height="40"/> </a> <a
-href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a> <a 
+<p align="left"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hyrox.dev25@gmail.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/> </a> <a
+href="https://www.microsoft.com/fr-fr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=windows" alt="figma" width="40" height="40"/> </a> <a
+href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"/> </a> <a 
 href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a 
 href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="windows" width="40" height="40"/> </a></p>
